@@ -1,6 +1,6 @@
 ### Hi there, I'm [Arthur][website] - Web Scraping Expert 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arthurgadyan.netlify.app)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arthurgadyan.netlify.app) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Artur81489501) -->
 
 ## I'm a Developer and Student!!
@@ -45,12 +45,12 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://arthurgadyan.netlify.app
 [twitter]: https://twitter.com/Artur81489501
