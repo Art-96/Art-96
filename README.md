@@ -56,7 +56,7 @@
 
 [website]: https://arthurgadyan.netlify.app
 [twitter]: https://twitter.com/Artur81489501
-[instagram]: https://www.instagram.com/_ar_990_/
+[instagram]: https://www.instagram.com/_ag_990_/
 [linkedin]: https://www.linkedin.com/in/arturgadyan/
 [vscodeplaylist]: https://code.visualstudio.com/
 [htmlplaylist]: https://devdocs.io/html/
