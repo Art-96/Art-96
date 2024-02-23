@@ -9,7 +9,7 @@
 - 💼 I am an employee of CapitalSoft
 - 📚 I study different technologies
 - 🏁 Goal: Own Company
-- <!-- - 📖 I'm a student of website development -->
+<!-- - 📖 I'm a student of website development -->
 <!--- 🎨 Fun fact: I love to draw-->
 <br />
 
@@ -55,15 +55,15 @@
 [![Git](https://skillicons.dev/icons?i=git&perline=3)]()
 [![GitHub](https://skillicons.dev/icons?i=github&perline=3)]()
 [![JetBrains Rider](https://skillicons.dev/icons?i=rider&perline=3)]()
-[![Jupyter Notebook](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)]([jnplaylist])
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />][jnplaylist]
 <br/>
 
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)]([twitter])
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)]([linkedin])
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)]([instagram])
+[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/Artur81489501)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/arturgadyan/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/_ag_990_/)
 [<img align="left" alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br/>
 
