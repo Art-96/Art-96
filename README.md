@@ -21,52 +21,50 @@
 <br/>
 
 ## Languages
-[![C#](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=3)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs&perline=3)]([cs])
+[![Python](https://skillicons.dev/icons?i=py&perline=3)](https://www.python.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js&perline=3)](https://www.javascript.com/)
+[![TypeScript](https://skillicons.dev/icons?i=ts&perline=3)](https://www.typescriptlang.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&perline=3)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=3)](https://www.postgresql.org/)
 ✔️ MSSQL
 <br/>
 
 ## Libraries
-[![ReGex](https://skillicons.dev/icons?i=regex&perline=3)](https://skillicons.dev)
-[![RxJS](https://skillicons.dev/icons?i=reactivex&perline=3)](https://skillicons.dev)
-[<img align="left" alt="Selenium" width="26px" src="https://simpleicons.org/icons/selenium.svg" />][seleniumplaylist]
+[![ReGex](https://skillicons.dev/icons?i=regex&perline=3)]([regex])
+[![RxJS](https://skillicons.dev/icons?i=reactivex&perline=3)]()
+[![Selenium](https://skillicons.dev/icons?i=selenium&perline=3)]([selenium])
 [<img align="left" alt="Pandas" width="26px" src="https://simpleicons.org/icons/pandas.svg" />][pandasplaylist]
 [<img align="left" alt="Numpy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />][numpyplaylist]
 ✔️ Scrapy
 <br/>
 
 ## Frameworks
-[![Angular](https://skillicons.dev/icons?i=angular&perline=3)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular&perline=3)]([angular])
 ✔️ Entity Framework
 ✔️ Angular Material
 <br/>
 
 ## Platform
-[![DotNet](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
+[![DotNet](https://skillicons.dev/icons?i=dotnet&perline=3)]([https://skillicons.dev](https://dotnet.microsoft.com/en-us/))
 <br/>
 
 ## Tools
-[![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&perline=3)]()
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)][cssplaylist]
-[![Git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
-[![JetBrains Rider](https://skillicons.dev/icons?i=rider&perline=3)](https://skillicons.dev)
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jnplaylist]
-
+[![Git](https://skillicons.dev/icons?i=git&perline=3)]()
+[![GitHub](https://skillicons.dev/icons?i=github&perline=3)]()
+[![JetBrains Rider](https://skillicons.dev/icons?i=rider&perline=3)]()
+[![Jupyter Notebook](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)]([jnplaylist])
 <br/>
 
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)]([twitter])
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)]([linkedin])
+[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)]([instagram])
 [<img align="left" alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
-
 <br/>
 
 ---
@@ -103,7 +101,10 @@
 [githubplaylist]: https://github.com/Art-96
 [upwork]: https://www.upwork.com/freelancers/~012e7004f694857ea8
 [pythonplaylist]: https://www.python.org/doc/
-[seleniumplaylist]: https://www.selenium.dev/documentation/
 [pandasplaylist]: https://pandas.pydata.org/docs/
 [numpyplaylist]: https://numpy.org/doc/
 [jnplaylist]: https://jupyter.org/
+[angular]: https://angular.io/
+[selenium]: https://www.selenium.dev/documentation/
+[regex]: https://docs.python.org/3/library/re.html
+[cs]: https://dotnet.microsoft.com/en-us/languages/csharp
