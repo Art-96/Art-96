@@ -60,7 +60,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Portfolio" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/Artur81489501)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/arturgadyan/)
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/_ag_990_/)
