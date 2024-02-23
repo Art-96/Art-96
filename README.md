@@ -7,45 +7,49 @@
 
 - 💻 I'm currently a Full-Stack Developer
 - 💼 I am an employee of CapitalSoft
-<!-- - 📖 I'm a student of website development -->
 - 📚 I study different technologies
 - 🏁 Goal: Own Company
+- <!-- - 📖 I'm a student of website development -->
 <!--- 🎨 Fun fact: I love to draw-->
-
 <br />
 
 
-### My skills include:
+## My skills include:
 ✔️ Web Developer
 ✔️ Software Engineer
 ✔️ Web Scraping
+<br/>
 
-### Languages
+## Languages
 [![C#](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=3)](https://skillicons.dev)
-MSSQL
+✔️ MSSQL
+<br/>
 
-### Libraries
-✔️ Scrapy
+## Libraries
 [![ReGex](https://skillicons.dev/icons?i=regex&perline=3)](https://skillicons.dev)
 [![RxJS](https://skillicons.dev/icons?i=reactivex&perline=3)](https://skillicons.dev)
 [<img align="left" alt="Selenium" width="26px" src="https://simpleicons.org/icons/selenium.svg" />][seleniumplaylist]
 [<img align="left" alt="Pandas" width="26px" src="https://simpleicons.org/icons/pandas.svg" />][pandasplaylist]
 [<img align="left" alt="Numpy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />][numpyplaylist]
+✔️ Scrapy
+<br/>
 
-### Frameworks
+## Frameworks
 [![Angular](https://skillicons.dev/icons?i=angular&perline=3)](https://skillicons.dev)
 ✔️ Entity Framework
 ✔️ Angular Material
+<br/>
 
 ## Platform
 [![DotNet](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
+<br/>
 
-### Tools
+## Tools
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)][cssplaylist]
 [![Git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
@@ -53,7 +57,7 @@ MSSQL
 [![JetBrains Rider](https://skillicons.dev/icons?i=rider&perline=3)](https://skillicons.dev)
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jnplaylist]
 
-<br />
+<br/>
 
 ### Connect with me:
 
@@ -63,7 +67,7 @@ MSSQL
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
-<br />
+<br/>
 
 ---
 
@@ -73,7 +77,7 @@ MSSQL
 <!-- Projects:END -->
 
 
----
+<!--- --- -->
 
 <!--- [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist] -->
 <!--- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodeplaylist] -->
