@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arthurgadyan.netlify.app) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Artur81489501) -->
 
-## I'm a Software Engineer and Web Scraping Expert.
+## I'm a Software Engineer.
 
 - 💻 I'm currently a Full-Stack Developer
 - 💼 I am an employee of CapitalSoft
